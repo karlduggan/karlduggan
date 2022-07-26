@@ -2,8 +2,8 @@
 
 <div id="header" align="center">
         Hi there 👋  
-      
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt=""/>
+      ![alt text]([http://url/to/img.png](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"))
+    
 </div>
 
 <!--

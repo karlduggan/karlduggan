@@ -2,8 +2,8 @@
 
 
 <div id="header" align="center">
-       Hi there 👋, I'm Karl
-       <h3 align="center">A Software Tester and Developer🚀</h3>
+       <h4> Hi there 👋, I'm Karl </h4>
+       <h2 align="center">A Software Tester and Developer🚀</h2>
     
     
 </div>

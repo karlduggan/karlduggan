@@ -1,5 +1,6 @@
 
 
+
 <div id="header" align="center">
        Hi there 👋, I'm Karl
        <h3 align="center">A Software Tester and Developer🚀</h3>
@@ -12,8 +13,8 @@
 - 👯 I’m currently looking to collaborate
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 👨‍💻 working  
+- ⚡ Fun fact: Along with coding and solving fun problems on codewars I also enjoy playing piano and composing music 
+
 
 
 
@@ -22,9 +23,10 @@
 <p align="left">
 </p>
 
-<hr />
+<br />
+<br />
 
-<h3 align="left">Languages:</h3>
+### Languages
 
 <div>
               <span>
@@ -48,10 +50,12 @@
               
 </div>
 
---------------------------------------------------------------------------------------------------------
 
+<br />
 
-<h3 align="left">Frameworks:</h3>
+### Frameworks
+
+<div>
        <span>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
        </span>
@@ -66,21 +70,23 @@
        </span>
 
 
---------------------------------------------------------------------------------------------------------
+</div>
 
+### Back-End
 
-<h3 align="left">Back-End:</h3>
+<div>
        <span>
                       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
        </span>
        <span>
                  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
           </span>
-          
---------------------------------------------------------------------------------------------------------
+</div>
 
 
-<h3 align="left">DevOps:</h3>
+### DevOps
+
+<div>
        <span>
               <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
        </span>
@@ -90,19 +96,26 @@
        <span>
               <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
        </span>
-       
---------------------------------------------------------------------------------------------------------   
+</div>      
 
-<h3 align="left">Tools:</h3>
+
+### Tools
+
+<div>
         <span>
                <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         </span>
         <span>
                  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
         </span>
+</div>
 
---------------------------------------------------------------------------------------------------------
 
-<h3 align="left">Stats:</h3>
+
+### Current Stats
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=karlduggan&layout=compact)
+
+
+

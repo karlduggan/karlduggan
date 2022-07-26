@@ -3,12 +3,10 @@
 
 <div id="header" align="center">
        <h4> Hi there 👋, I'm Karl </h4>
-       <h2 align="center">A Software Tester and Developer🚀</h2>
-    
-    
+       <h2 align="center">A Software Tester and Developer🚀 </h2>
+
 </div>
 
-<br />
 <br />
 
 - 👨‍💻 I'm Currently working at Cell Software as a Software Test Engineer

@@ -89,6 +89,6 @@
        </span>
        
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">Stats:</h3>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=karlduggan&layout=compact)

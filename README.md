@@ -2,20 +2,18 @@
 
 <div id="header" align="center">
        Hi there 👋, I'm Karl
-       <h3 align="center">A passionate developer</h3>
+       <h3 align="center">A Software Tester and Developer🚀</h3>
     
     
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👨‍💻 I'm Currently working at Cell Software as a Software Test Engineer
+- 🌱 Moved away from React and now learning Vue.js 
+- 👯 I’m currently looking to collaborate
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👨‍💻 working  🚀
+- 👨‍💻 working  
 
 
 
@@ -45,22 +43,12 @@
                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
               </span>
               
-              <span>
-                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-              </span>
-            
-              
-              <span>
-                     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-              </span>
-              <span>
-                     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-              </span>
-              <span>
-                     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-              </span>
-
 </div>
+
+
+
+
+
 
 <h3 align="left">Frameworks:</h3>
        <span>
@@ -75,8 +63,19 @@
         <span>
               <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
        </span>
-       
-  
+
+
+
+
+
+
+<h3 align="left">Back-End:</h3>
+       <span>
+                      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+       </span>
+       <span>
+                 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+          </span>
 <h3 align="left">DevOps:</h3>
        <span>
               <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -88,9 +87,14 @@
               <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
        </span>
        
+      
+
 <h3 align="left">Tools:</h3>
         <span>
                <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        </span>
+        <span>
+                 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
         </span>
         
 <h3 align="left">Stats:</h3>

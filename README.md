@@ -3,7 +3,7 @@
 <div id="header" align="center">
         Hi there 👋  
       
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt=""/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt=""/>
 </div>
 
 <!--

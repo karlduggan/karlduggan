@@ -77,6 +77,7 @@
 
 #### Current Stats:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlduggan&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=karlduggan&layout=compact)
 
 

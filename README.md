@@ -2,8 +2,8 @@
 
 
 <div id="header" align="center">
-       <img src="https://github.com/karlduggan/karlduggan/blob/main/computer_gif.gif?raw=true" height=200>
-       <h4> Hi there 👋, I'm Karl </h4>
+       <img src="https://github.com/karlduggan/karlduggan/blob/main/computer.gif?raw=true" height=100 left=2000>
+       <h4> Hi there 👋, welcome to my GitHub, I'm Karl </h4>
        <h2 align="center">A Software Tester and Developer🚀 </h2>
 
 </div>

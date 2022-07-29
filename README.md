@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-       <img src="https://github.com/karlduggan/karlduggan/blob/main/computer.gif?raw=true" height=100 width=200>
+       <img src="https://github.com/karlduggan/karlduggan/blob/main/computer.gif?raw=true" height=100 width=170>
        <h4> Hi there 👋, welcome to my GitHub, I'm Karl </h4>
        <h2 align="center">A Software Tester and Developer 🚀 </h2>
 

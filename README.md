@@ -11,8 +11,8 @@
 <br />
 
 - 👨‍💻 I'm Currently working at Cell Software as a Software Test Engineer
-- 🌱 Moving away from React and now learning Vue.js 
-- 👯 I’m currently looking to collaborate
+- 🌱 Currently using React and Vue.js 
+- 👯 Looking to collaborate
 - 💬 Ask me about anything :)
 - 📫 How to reach me: You can contact me by email from my profile
 - ⚡ Fun fact: Along with coding and solving fun problems on codewars I also enjoy playing piano and composing music 
